@@ -1,0 +1,27 @@
+/* Add your styles here */
+#baslik{
+    text-align: center;
+    background-color: gainsboro;
+    font-family: 'Times New Roman', Times, serif;
+    border: 3px solid purple
+  }
+  /*body{
+    background-color: #d8bfd8;
+  }*/
+
+  .section{
+    margin: 30px auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    width: 60%;
+  }
+  
+  img{
+    width: 30%;
+    margin: 10px;
+    height: 200px;
+    object-fit: cover;  
+  }
+  
